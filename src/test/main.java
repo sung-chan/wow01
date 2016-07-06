@@ -6,5 +6,7 @@ package test;
 public class main {
     public static void main(String[] args) throws Exception{
         System.out.println("hello!!!");
+        aaa a = new aaa();
+        a.asdf();
     }
 }
